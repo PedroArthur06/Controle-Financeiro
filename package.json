@@ -1,0 +1,23 @@
+{
+  "name": "controle-financeiro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroArthur06/Controle-Financeiro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PedroArthur06/Controle-Financeiro/issues"
+  },
+  "homepage": "https://github.com/PedroArthur06/Controle-Financeiro#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
